@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "vm:emerald_brick_block" }
+    }
+}
